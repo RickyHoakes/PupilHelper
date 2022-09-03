@@ -1,4 +1,4 @@
-# #PupilHelper
+# PupilHelper
 A web application built using HTML, CSS, and JS for the Frontend, used PHP as the Backend for storing all the details of the student.
 it Helps students with 3 key tasks 
 (i) Making a customized timetable that notifies students via push notifications. 
@@ -7,7 +7,7 @@ it Helps students with 3 key tasks
 Connected each webpage to one other using links for folders, so they might be expired.
 So, try making your own links for connecting one segment of website to other.
 
-#Methodology and modules:
+# Methodology and modules:
 HOME PAGE
 (has to link to login/sign up pages to proceed further)
 LOGIN PAGE/SIGN UP PAGE
@@ -24,21 +24,21 @@ REMINDER
 The user can add assignments which they want to get reminded about with web notifications.
 System Specification
 
-#Hardware Requirement 
+# Hardware Requirement 
 
 Processor: Minimum 1 GHz; Recommended 2GHz or more
 Ethernet connection (LAN) OR a wireless adapter (Wi-Fi)
 Hard Drive: Minimum 32 GB; Recommended 64 GB or more
 Memory (RAM): Minimum 1 GB; Recommended 4 GB or above
 
-#Software Requirement:
+# Software Requirement:
 Any Standard Web browser; Recommended:Google Chrome/Edge
 Xammp server /control panel
 Any text editor ;Recommended : Visual studio code
 
 
 
-#Results:
+# Results:
 Home page:
 ![image](https://user-images.githubusercontent.com/89961380/188269014-6de8c72d-96f8-4501-964a-83e0b522a2db.png)
 Login Page:
