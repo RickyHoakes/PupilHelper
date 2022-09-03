@@ -40,17 +40,30 @@ Any text editor ;Recommended : Visual studio code
 
 # Results:
 Home page:
+
 ![image](https://user-images.githubusercontent.com/89961380/188269014-6de8c72d-96f8-4501-964a-83e0b522a2db.png)
+
 Login Page:
+
 ![image](https://user-images.githubusercontent.com/89961380/188269023-93a7215b-2d45-4dc9-8936-baf9f94ee331.png)
+
 Signup Page:
+
 ![image](https://user-images.githubusercontent.com/89961380/188269038-fe46a352-d15f-479d-97d9-916017f5240b.png)
+
 Main page:
+
 ![image](https://user-images.githubusercontent.com/89961380/188269052-414d3240-6bcd-425f-b76b-4150f8fdf6c0.png) 
+
 To-Do List tab:
+
 ![image](https://user-images.githubusercontent.com/89961380/188269066-a4384e2d-9337-4f2a-b66c-b74fba6560f6.png) 
+
 Timeline tab:
+
 ![image](https://user-images.githubusercontent.com/89961380/188269072-22c932a3-464e-4988-b8f3-22f67654cdd0.png)
+
 Timetable-tab:
+
 ![image](https://user-images.githubusercontent.com/89961380/188269086-b816e279-12d9-4295-b92b-c7bb8f9b34ee.png)
 
