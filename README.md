@@ -5,4 +5,4 @@ it Helps students with 3 key tasks
 (ii) Timeline for Tasks 
 (iii) To-Do Lists.
 Connected each webpage to one other using links for folders, so they might be expired.
-So, try making your own links for connecting one segment of webpage to other.
+So, try making your own links for connecting one segment of website to other.
